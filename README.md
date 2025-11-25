@@ -1,7 +1,7 @@
 # Project Beyondex
 Project Beyondex © 2025 by Fluid Immersive, Inc is licensed under CC BY-NC-SA 4.0.
 
-![Project Beyondex Product shot](images/beyondex.png)
+![Project Beyondex Product shot](images/beyondex.jpg)
 
 ## What is Project Beyondex?
 Many of us upgrading from the Valve Index to the Bigscreen Beyond love the size and comfort, but find ourselves missing the incredible off-ear soundscape from the Index. 
