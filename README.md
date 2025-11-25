@@ -14,7 +14,17 @@ The mod involves removing the audio strap from the Index and flipping it "upside
 
 We started from the original Firmware and DAC/AMP design of [Sctanf's Pico Amp project](https://github.com/sctanf/picoamp-2) and added a power supplementation system that allows us to drive the BMR drivers of the Index audio strap at full HD quality and volume from the output of the Beyond's usb port. Then we designed custom 3D model files for the connectors, enclosure, and top strap D-ring which when installed on the Index audio strap and Beyond, turn it into something that feels like it is a fully-integrated whole and more than just a modded headset. 
 
-To get a Project Beyondex Mod Kit, head over to the [Fluid VR Headset Mod Store](https://shop.fluid.so).
+## How to Make a Your Beyondex
+
+If you don't have a 3D printer, you can get a Project Beyondex Mod Kit with everything you need included in the box. We also sell a all-in-one version that we hand-build for you. To get any of these, head over to the [Fluid VR Headset Mod Store](https://shop.fluid.so).
+
+The 3D model files are hosted [here](https://github.com/FluidXR/project-beyondex/tree/main/3d_models). We print ours on Bambu Labs H2D printers with standard settings and no supports in black Bambu Labs PLA Basic. Other filaments, especially matte PLA are too brittle and we recommend going with normal PLA or other non-brittle materials. 
+
+Print the connectors facing "up" with the small flat cut into the side contacting the build plate. Mirror one of them along the model's Y axis so that the holes for the pogo pins are on the other side. Print the enclosure with the flat side down, and make sure that the D-ring also has its flat side down. 
+
+After everything is printed, figure out which side is which for the connectors and then put the corresponding pogo pins though the holes so the pins just stick out a few millimeters. The negative leads go in the holes farthest from the flat. You'll find the R and L +/- labels printed on the PCB next to the connector to determine which leads go to which side. 
+
+Finally, add the m2.5 heat-set insert into the hole in the washer using a soldering iron. At this point, your kit is the same as the one shown in the installation video. 
 
 **Installation instruction video**: https://www.youtube.com/watch?v=sTAcx7Pnb1I
 
