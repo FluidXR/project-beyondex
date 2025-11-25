@@ -28,6 +28,6 @@ Finally, add the m2.5 heat-set insert into the hole in the washer using a solder
 
 **Installation instruction video**: https://www.youtube.com/watch?v=sTAcx7Pnb1I
 
-**Note: ** We spent a lot of time and money developing the 3D models in this project. You are free to use these models for yourself, but you may not use them commercially or sell prints of these online. If you remix, repost, or modify these files or models, you must do so under the same non-commercial license in this repo and point back to this repo and license. If you want to make your own Beyondex-like project under a different licencse for commercial use, you can start from Sctanf's project's files, which have licenses that are more permissive.
+**Note:** We spent a lot of time and money developing the 3D models in this project. You are free to use these models for yourself, but you may not use them commercially or sell prints of these online. If you remix, repost, or modify these files or models, you must do so under the same non-commercial license in this repo and point back to this repo and license. If you want to make your own Beyondex-like project under a different licencse for commercial use, you can start from Sctanf's project's files, which have licenses that are more permissive.
 
 Sctanf's Pico Amp PCB schematics and firmware are licensed under MIT license (firmware) and CERN OHL v2 license (hardware).
