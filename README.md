@@ -16,7 +16,7 @@ We started from the original Firmware and DAC/AMP design of [Sctanf's Pico Amp p
 
 ## How to Make a Your Beyondex
 
-If you don't have a 3D printer, you can get a Project Beyondex Mod Kit with everything you need included in the box. We also sell a all-in-one version that we hand-build for you. To get any of these, head over to the [Fluid VR Headset Mod Store](https://shop.fluid.so).
+If you don't have a 3D printer, you can get a Project Beyondex Mod Kit with everything you need included in the box. We also sell an all-in-one version that we hand-build for you. To get any of these, head over to the [Fluid VR Headset Mod Store](https://shop.fluid.so).
 
 The 3D model files are hosted [here](https://github.com/FluidXR/project-beyondex/tree/main/3d_models). We print ours on Bambu Labs H2D printers with standard settings and no supports in black Bambu Labs PLA Basic. Other filaments, especially matte PLA are too brittle and we recommend going with normal PLA or other non-brittle materials. 
 
