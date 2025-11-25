@@ -30,4 +30,4 @@ Finally, add the m2.5 heat-set insert into the hole in the washer using a solder
 
 **Note:** We spent a lot of time and money developing the 3D models, PCBs, and other designs in this project. You are free to use these models for yourself, but you may not use them commercially or sell prints of these online. If you remix, repost, or modify these files or models, you must do so under the same non-commercial license in this repo and point back to this repo and license. If you want to make your own Beyondex-like project under a different licencse for commercial use, you can start from Sctanf's project's files, which have licenses that are more permissive.
 
-Sctanf's Pico Amp PCB schematics and firmware are licensed under MIT license (firmware) and CERN OHL v2 license (hardware).
+Sctanf's Pico Amp PCB schematics and firmware are licensed under MIT license (firmware) and CERN OHL v2 license (hardware). The connector brackets incorporate portions of the Bigscreen [Beyond Strap Connector](https://www.printables.com/model/1049308-bigscreen-beyond-audio-strap-official-cad-data) under a Creative Commons (Attribution) license.
