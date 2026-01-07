@@ -18,7 +18,7 @@ We started from the original Firmware and DAC/AMP design of [Sctanf's Pico Amp p
 
 If you don't have a 3D printer, you can get a Project Beyondex Mod Kit with everything you need included in the box. We also sell an all-in-one version that we hand-build for you. To get any of these, head over to the [Fluid VR Headset Mod Store](https://shop.fluid.so).
 
-The 3D model files are hosted [here](https://github.com/FluidXR/project-beyondex/tree/main/3d_models). We print ours on Bambu Labs H2D printers with standard settings and no supports in black Bambu Labs PLA Basic. Other filaments, especially matte PLA are too brittle and we recommend going with normal PLA or other non-brittle materials. 
+The 3D model files are hosted [here](https://github.com/FluidXR/project-beyondex/tree/main/3d_models) and the improved firmware is hosted [here](https://github.com/FluidXR/picoamp-beyondex). We print ours on Bambu Labs H2D printers with standard settings and no supports in black Bambu Labs PLA Basic. Other filaments, especially matte PLA are too brittle and we recommend going with normal PLA or other non-brittle materials. 
 
 Print the connectors facing "up" with the small flat cut into the side contacting the build plate. Mirror one of them along the model's Y axis so that the holes for the pogo pins are on the other side. Print the enclosure with the flat side down, and make sure that the D-ring also has its flat side down. 
 
