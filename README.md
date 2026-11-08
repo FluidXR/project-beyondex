@@ -28,7 +28,7 @@ Finally, add the m2.5 heat-set insert into the hole in the washer using a solder
 
 The D-ring is attached to the Beyond by removing the top two m2 self-tapping screws (t6 head) and replacing with two 6mm m2 self-tapping (blunt point) screws. 
 
-You may also want to print this [cable clip](https://www.thingiverse.com/thing:7260389) for holding your Beyond's cable more securely. 
+We also include a [cable clip](https://github.com/FluidXR/project-beyondex/blob/main/3d_models/Beyondex%20Cable%20Clip.stl) (plus a ready-to-slice Bambu plate `.3mf`) for holding your Beyond's cable more securely. Print it flat side down with no supports. 
 
 **Installation instruction video**: https://www.youtube.com/watch?v=sTAcx7Pnb1I
 
